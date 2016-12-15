@@ -21,12 +21,12 @@
 <br/>     
 <div id="menu">
     <ul>
-        <li><a href="../" target="_parent">Home</a></li>
-        <li><a href="../" class="current">PRODUCT 1</a></li>
-		<li><a href="../" class="current">PRODUCT 2</a></li>
-		<li><a href="../" class="current">PRODUCT 3</a></li>
-		<li><a href="../Drink/drink.html" target="_parent">DRINK</a></li>
-        <li><a href="../" class="current">Contact Us</a></li>
+        <li><a href="../index.html" target="_parent">HOME</a></li>
+        <li><a href="../product1.html" class="_parent">BREAD</a></li>
+		<li><a href="../product2.html" class="_parent">CAKE</a></li>
+		<li><a href="../product3.html" class="_parent">COOKIES</a></li>
+		<li><a href="../MiniProject/Drink/drink.html" target="current">DRINK</a></li>
+        <li><a href="../Contact us/contact_us.html" class="_parent">CONTACT US</a></li>
     </ul> 
 </div> 
 <!-- end of menu -->
@@ -83,19 +83,24 @@ new(function(){});var e={Vc:function(a){return-c.cos(a*c.PI)/2+.5},Xc:function(a
         <h1>Welcome to </h1>
 		<br/>
 		<h2>Drink</h2>
-        <h3>tulis kat sini.</h3>
-		<center><img src="../Drink/espresso.jpg" width="300px" height="140px" alt="ump logo" /></center>
-		<p>letak gambar kat bawah ke..??</p>     
-		<center><img src="../Drink/ginger.jpg" width="700px" height="140px" alt="ump logo" /></center>
-		<p>letak gambar kat bawah ke..??</p>     
-		<center><img src="../Drink/green tea.jpg" width="700px" height="140px" alt="ump logo" /></center>
-		<p>letak gambar kat bawah ke..??</p>     
-		<center><img src="../Drink/hotchoc.jpg" width="700px" height="140px" alt="ump logo" /></center>
-		<p>letak gambar kat bawah ke..??</p>     
-		<center><img src="../Drink/juice.jpg" width="700px" height="140px" alt="ump logo" /></center>
-		<p>letak gambar kat bawah ke..??</p>     
-		<center><img src="../Drink/teh tarik.jpg" width="700px" height="140px" alt="ump logo" /></center>
-		<p>letak gambar kat bawah ke..??</p>     
+        <h3>Enjoy Your Favourite Drink with Us!</h3>
+		<center><img src="../Drink/espresso.jpg" width="300px" height="140px" alt="ump logo" />
+		<h3>Espresso RM 12.70</h3></center>     
+		<br><br>
+		<center><img src="../Drink/ginger.jpg" width="300px" height="140px" alt="ump logo" />
+		<h3>Ginger Healthy Drink RM 6.50</h3></center>     
+		<br><br>
+		<center><img src="../Drink/green tea.jpg" width="300px" height="140px" alt="ump logo" />
+		<h3>Green Tea RM 5.00</h3></center>     
+		<br><br>
+		<center><img src="../Drink/hotchoc.jpg" width="300px" height="140px" alt="ump logo" />
+		<h3>Hot Chocolate RM 9.50</h3></center>     
+		<br><br>
+		<center><img src="../Drink/juice.jpg" width="300px" height="140px" alt="ump logo" />
+		<h3>Fresh Juice (Mango, Strawberry, Apple, Avocado, etc) RM 4.50</h3></center>     
+		<br><br>
+		<center><img src="../Drink/teh tarik.jpg" width="300px" height="140px" alt="ump logo" />
+		<h3>Teh Tarik 3 Layer RM 6.00</h3> </center>    
 		
 			
 			
